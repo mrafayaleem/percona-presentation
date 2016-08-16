@@ -1,0 +1,4 @@
+Django==1.9.8
+djangorestframework==3.4.1
+MySQL-python==1.2.5
+Pygments==2.1.3
